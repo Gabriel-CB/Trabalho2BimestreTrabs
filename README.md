@@ -1,5 +1,4 @@
-Gabriel Candeias Barbosa
-        00224331
+Gabriel Candeias Barbosa - 00224331
 
 # How it's Works ?
 
