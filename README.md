@@ -1,3 +1,6 @@
+Gabriel Candeias Barbosa
+        00224331
+
 # How it's Works ?
 
  - First you need to download and install xamp (apache and mysql): https://www.apachefriends.org/pt_br/download.html;
